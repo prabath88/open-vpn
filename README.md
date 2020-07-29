@@ -16,7 +16,7 @@ Which IPv4 address should be used?
      1) 3.70.4.83
 IPv4 address [1]:
 
-## Press enter
+Press enter
 
 select the following options to complete the installation
 
@@ -26,7 +26,7 @@ select the following options to complete the installation
 4) clinet name
 Note:- UDP is faster than TCP
 
-## Create users
+Create users
 
 sudo ./openvpn-install.sh
 
@@ -39,7 +39,7 @@ Select an option:
    4) Exit
 Option:user1
 
-## Press enter
+Press enter
 
 copy the user1.ovpn file to the client machine and use openvpn client to connect to the VPN server.
 
