@@ -18,7 +18,7 @@ IPv4 address [1]:
 
 Press enter
 
-select the following options to complete the installation
+##select the following options to complete the installation
 
 1) public IP
 2) UDP
